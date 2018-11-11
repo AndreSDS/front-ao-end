@@ -1,0 +1,6 @@
+.text-collab{
+    font-size: var(--font-medium);
+    line-height: 1.8em;
+    margin-bottom: var(--spacing-small);
+    color: var(--color-negative-light);
+}

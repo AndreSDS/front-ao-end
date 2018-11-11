@@ -1,8 +1,0 @@
-.card-collab{
-    background-color: var(--color-zero);
-    border-radius: var(--radius);
-    padding: var(--spacing-big) 0 var(--spacing-small) var(--spacing-medium);
-    width: 540px;
-    height: 595px;
-    box-shadow: 0 0 24px 0 var(--color-negative-light);
-}
